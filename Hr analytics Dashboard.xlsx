@@ -1,17 +1,1 @@
-HR_ANALYTICS
-We were given two dataset HR_1 AND HR_2 
-After reviewing both the dataset we merge the dataset in the powerquery by using left join and created relationship between both the tables.
-After merging both the dataset we clean the data with null values, remove errors, and remove duplicate from the columns.
-After cleaning the data, created Custom and conditional columns for the dataset and then load the file in he excel for further process
-After Loading the file in the excel we started creating the pivot tables according to the requirements 
-where we created KPI's for 
-1 . Total Employees 
-2 . Attrition rate 
-3 . Active Employees 
-4 . Average Age
-5 . Rate for male research Scientist
-6 . Average attrition rate for all the departments 
-7 . Attrition vs YearssinceLastpromotion
-8 . Attrition vs monthly_income
-9 . Jobrole vs Worklifebalance 
-10. Attrirtion for martial status
+
