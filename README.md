@@ -3,7 +3,7 @@ Human Resources (HR) Analytics is the process of using the data and improve how 
 This project analyzes employee attrition and workforce trends using Microsoft Excel on a dataset of approximately 50,000 record. The goal is to provide actionable insights for HR and leadership teams to reduce turnover, enhance retention strategies, and support diversity and workforce planning. By leveraging Excel’s advanced features like Pivot Tables, Slicers, KPIs, and Conditional Formatting, this project delivers an interactive dashboard that transforms raw data into strategic business intelligence. This project is ideal for demonstrating data analytics skills in HR/People Analytics, particularly for roles requiring Excel proficiency and business problem-solving.
 
 
-This dashboard provides a comprehensive view of employee demographics, attrition patterns, and departmental trends across a workforce of 50,000 employees. It’s designed to help HR leaders identify retention risks, optimize workforce planning, and improve employee experience.
+The dashboard provides a comprehensive view of employee demographics, attrition patterns, and departmental trends across a workforce of 50,000 employees. It’s designed to help HR leaders identify retention risks, optimize workforce planning, and improve employee experience.
 
 🔹 Top-Level KPIs
 - Employee Count: 50K
