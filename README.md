@@ -14,7 +14,7 @@ The dashboard provides a comprehensive view of employee demographics, attrition 
 These headline metrics offer a snapshot of workforce size, engagement, and compensation benchmarks.
 
 🔹 Departmental & Role Insights
-- Highest Attrition Rates: Support (55%), Sales & Software (50%)
+- Highest Attrition Rates: Support (55%) & Software (50%)
 - Average Working Years:
 - Software: ~6 years
 - Research & Development: ~1 year
